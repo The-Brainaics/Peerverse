@@ -58,6 +58,21 @@ Start the server locally using the command:
 
 `node server.js`
 
+# **File Structure**
+
+```
+leaderboard-system/
+├── public/
+│   ├── index.html       # Main HTML file
+│   ├── style.css        # Stylesheet
+│   ├── script.js        # Client-side JavaScript
+├── server.js            # Backend server
+├── package.json         # Node.js package configuration
+├── .env                 # Environment variables
+├── README.md            # Project documentation
+└── .gitignore           # Ignored files for Git
+```
+
 # **Usage**
 
 1.View Rankings: Open the leaderboard in your browser to view real-time rankings and feedback.
