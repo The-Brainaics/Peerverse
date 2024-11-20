@@ -1,5 +1,4 @@
-# Team Peerverse
-# Project Title: **Hackathon Management System**
+# Project Title: **Peerverse**
 
 ## Project Description
 This project combines a **Leaderboard**, **Progress Tracker**, and an **Admin Management System** into one comprehensive platform. The platform is designed for managing and tracking project-based hackathons, where senior developers assign projects to junior developers. It provides features for performance evaluation, task tracking, and centralized administration.
