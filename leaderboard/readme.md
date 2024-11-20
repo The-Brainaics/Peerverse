@@ -62,11 +62,11 @@ leaderboard-system/
 
 ├── public/
 
-│   ├── index.html       # Main HTML file
+│          ├── index.html       # Main HTML file
 
-│   ├── style.css        # Stylesheet
+│          ├── style.css        # Stylesheet
 
-│   ├── script.js        # Client-side JavaScript
+│          ├── script.js        # Client-side JavaScript
 
 ├── server.js            # Backend server
 
