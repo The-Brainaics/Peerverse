@@ -77,6 +77,15 @@ Ensure you have the following installed:
 6. Access the Application:
    Visit http://localhost:3000 in your browser.
 
+## **Setup**
+
+1. Login: Access the portal with your credentials.
+2. Assign Projects: Allocate tasks to team members from the dashboard.
+3. Track Progress: Monitor real-time updates on project milestones.
+4. Collaborate: Communicate task statuses and share updates efficiently.
+
+
+
 
 
    
