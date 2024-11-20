@@ -45,3 +45,8 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/hackathon-management-portal.git
+   
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd hackathon-management-portal
+
