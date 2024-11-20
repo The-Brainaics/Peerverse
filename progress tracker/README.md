@@ -102,6 +102,7 @@ Ensure you have the following installed:
 │   ├── public/         # Static files
 │   ├── vite.config.js  # Vite configuration
 ├── README.md           # Project documentation
+```
 
 ## **Contributing**
 
@@ -110,12 +111,15 @@ We welcome contributions! To contribute:
 2. Create a feature branch:
    ```bash
    git checkout -b feature-name
+   ```
 3. Commit your changes:
    ```bash
    git commit -m 'Add feature'
+   ```
 4. Push to your branch:
 ```bash
 git commit -m 'Add feature'
+```
 5. Open a pull request. 
 
 
