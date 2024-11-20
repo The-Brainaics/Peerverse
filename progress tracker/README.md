@@ -50,3 +50,35 @@ Ensure you have the following installed:
    ```bash
    cd hackathon-management-portal
 
+3. **Install Dependencies:**
+   * Frontend:
+   ```bash
+   cd frontend
+   npm install
+
+4. **Environment Variables:**
+   * Create a .env file in the backend directory with the following values:
+
+   ```bash
+   MONGO_URI=mongodb://localhost:27017/ligma
+   PORT=5000
+
+5. **Run the Application:**
+ * Start the Backend:
+   ```bash
+   cd backend
+   npm run dev
+
+ * Start the Frontend:
+   ```bash
+   cd frontend
+   npm run dev
+
+6. Access the Application:
+   Visit http://localhost:3000 in your browser.
+
+
+
+   
+
+
