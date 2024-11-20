@@ -73,11 +73,6 @@ This project combines a **Leaderboard**, **Progress Tracker**, and an **Admin Ma
    ```bash
    npm start
    ```
-
-5. **Access the Application**  
-   Open your browser and navigate to:  
-   [http://localhost:3000](http://localhost:3000)
-
 ---
 
 ## File Structure
