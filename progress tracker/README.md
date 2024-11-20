@@ -117,9 +117,9 @@ We welcome contributions! To contribute:
    git commit -m 'Add feature'
    ```
 4. Push to your branch:
-```bash
-git commit -m 'Add feature'
-```
+   ```bash
+   git commit -m 'Add feature'
+   ```
 5. Open a pull request. 
 
 
