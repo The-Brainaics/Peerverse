@@ -68,15 +68,15 @@ Start the server locally using the command:
 
 # **Future Enhancements**
 
-Authentication System: Restrict data updates to verified admins or alumni.
+1. Authentication System: Restrict data updates to verified admins or alumni.
 
-Advanced Metrics: Add filters, search, or other performance metrics.
+2. Advanced Metrics: Add filters, search, or other performance metrics.
 
-WebSocket Integration: Enable instant updates without refreshing the page.
+3. WebSocket Integration: Enable instant updates without refreshing the page.
 
-Mobile-Friendly UI: Optimize the interface for mobile devices.
+4. Mobile-Friendly UI: Optimize the interface for mobile devices.
 
-Cloud Deployment: Host the app on Heroku, Vercel, or another cloud platform.
+5. Cloud Deployment: Host the app on Heroku, Vercel, or another cloud platform.
 
 # **Contributing**
 
