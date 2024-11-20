@@ -62,7 +62,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/hackathon-management-portal.git
+git clone [https://github.com/your-username/hackathon-management-portal.git](https://github.com/narendra0111)
 Navigate to the Project Directory:
 
 bash
