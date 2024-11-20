@@ -42,9 +42,9 @@ Create a database named leaderboardDB and a collection named users.
 
 Populate the database with initial data:
 
-`use leaderboardDB;
+`use leaderboardDB;`
 
-db.users.insertMany([
+`db.users.insertMany([
     { name: "Alice", performanceScore: 95, reviews: "Excellent!" },
     { name: "Bob", performanceScore: 90, reviews: "Great work!" },
     { name: "Charlie", performanceScore: 85, reviews: "Good effort." }
@@ -59,13 +59,21 @@ Start the server locally using the command:
 **File Structure**
 
 leaderboard-system/
+
 ├── public/
+
 │   ├── index.html       # Main HTML file
+
 │   ├── style.css        # Stylesheet
+
 │   ├── script.js        # Client-side JavaScript
+
 ├── server.js            # Backend server
+
 ├── package.json         # Node.js package configuration
+
 ├── README.md            # Project documentation
+
 └── .gitignore           # Ignored files for Git
 
 **Usage**
