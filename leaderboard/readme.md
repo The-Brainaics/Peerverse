@@ -110,7 +110,7 @@ Contributions are welcome! If you’d like to contribute:
 A big thank you to the hackathon organizers for providing the platform and inspiration for this project. Special thanks to the open-source community for the tools and frameworks that made this project possible.
 
 **Connect with Sarthak**
-Feel free to reach out via GitHub: [Sarthak]([url](https://github.com/SarthakKacholiya))
+Feel free to reach out via GitHub: [SarthakKacholiya]([url](https://github.com/SarthakKacholiya))
 
 
 
