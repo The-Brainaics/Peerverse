@@ -36,11 +36,11 @@ Then run:
 
 **3. Set Up MongoDB**
 
-Install and start MongoDB locally or use a cloud-based MongoDB service like MongoDB Atlas.
+1. Install and start MongoDB locally or use a cloud-based MongoDB service like MongoDB Atlas.
 
-Create a database named leaderboardDB and a collection named users.
+2. Create a database named leaderboardDB and a collection named users.
 
-Populate the database with initial data:
+3. Populate the database with initial data:
 
 `use leaderboardDB;`
 
