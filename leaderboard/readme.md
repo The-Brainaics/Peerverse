@@ -56,25 +56,7 @@ Start the server locally using the command:
 
 `node server.js`
 
-**File Structure**
-
-leaderboard-system/
-
-├── public/
-
-│          ├── index.html       # Main HTML file
-
-│          ├── style.css        # Stylesheet
-
-│          ├── script.js        # Client-side JavaScript
-
-├── server.js            # Backend server
-
-├── package.json         # Node.js package configuration
-
-├── README.md            # Project documentation
-
-└── .gitignore           # Ignored files for Git
+leaderboard-system/ ├── public/ │ ├── index.html # Main HTML file │ ├── style.css # Stylesheet │ ├── script.js # Client-side JavaScript ├── server.js # Backend server ├── package.json # Node.js package configuration ├── README.md # Project documentation └── .gitignore # Ignored files for Git
 
 **Usage**
 
