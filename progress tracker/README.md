@@ -85,7 +85,24 @@ Ensure you have the following installed:
 4. Collaborate: Communicate task statuses and share updates efficiently.
 
 
+## **Project Structure**
 
+```bash
+   hackathon-management-portal/
+├── backend/
+│   ├── models/         # MongoDB schema definitions
+│   ├── routes/         # API routes
+│   ├── controllers/    # Route logic
+│   ├── .env            # Environment variables
+│   ├── server.js       # Main backend server
+├── frontend/
+│   ├── src/
+│   │   ├── components/ # Reusable UI components
+│   │   ├── pages/      # React pages
+│   │   ├── App.jsx     # Main React component
+│   ├── public/         # Static files
+│   ├── vite.config.js  # Vite configuration
+├── README.md           # Project documentation
 
 
    
