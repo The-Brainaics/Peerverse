@@ -10,8 +10,7 @@ A full-stack project management portal designed to simplify task assignment, tra
 3. [Setup and Installation](#setup-and-installation)  
 4. [Usage](#usage)  
 5. [Project Structure](#project-structure)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
+6. [Contributing](#contributing)   
 
 ---
 
@@ -103,6 +102,22 @@ Ensure you have the following installed:
 │   ├── public/         # Static files
 │   ├── vite.config.js  # Vite configuration
 ├── README.md           # Project documentation
+
+## **Contributing**
+
+We welcome contributions! To contribute:
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add feature'
+4. Push to your branch:
+```bash
+git commit -m 'Add feature'
+5. Open a pull request. 
+
 
 
    
