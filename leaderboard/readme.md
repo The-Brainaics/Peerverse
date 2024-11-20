@@ -2,14 +2,14 @@
 
 This project, developed by [Sarthak]([url](https://github.com/SarthakKacholiya)) as part of a hackathon, is a fully functional Leaderboard System designed to rank developers based on performance metrics, peer reviews, and alumni/admin feedback. The system fosters healthy competition by showcasing top performers and updates rankings dynamically in real time using MongoDB as the database backend.
 
-**Features:-**
+**Features**
 1. Real-Time Leaderboard Updates: The leaderboard automatically updates rankings whenever new data is added or modified.
 2. Dynamic Feedback Integration: Alumni and admin reviews directly influence the ranking system.
 3. Clean, Interactive UI: A responsive and visually appealing interface for viewing rankings and feedback.
 Scalable Backend: Designed with Node.js and MongoDB for a seamless and scalable backend.
 Customization Options: Flexible architecture to add new performance metrics or expand features.
 
-**Tech Stack:-**
+**Tech Stack**
 | **Category**       | **Technology**         |
 |---------------------|-------------------------|
 | **Frontend**        | HTML, CSS, JavaScript  |
@@ -19,14 +19,14 @@ Customization Options: Flexible architecture to add new performance metrics or e
 | **Version Control** | Git, GitHub            |
 | **Hosting (Future)**| Heroku, Vercel         |
 
-**Getting Started:-**
+**Getting Started**
 Follow these steps to set up the project locally:
 
-**1. Clone the Repository**
+**1.Clone the Repository**
 git clone https://github.com/sarthak/leaderboard-system.git
 cd leaderboard-system
 
-**2. Install Dependencies**
+**2.Install Dependencies**
 Ensure Node.js and npm are installed on your machine. Then run:
 npm install
 
