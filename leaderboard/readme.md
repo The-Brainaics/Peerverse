@@ -68,29 +68,40 @@ leaderboard-system/
 **Usage**
 
 1.View Rankings: Open the leaderboard in your browser to view real-time rankings and feedback.
+
 2.Update Data: Modify the MongoDB database (or add a form in the future) to update user performance or feedback.
+
 3.Dynamic Updates: Refresh the leaderboard page to view real-time updates based on changes in the database.
 
 **Future Enhancements**
 
 Authentication System: Restrict data updates to verified admins or alumni.
+
 Advanced Metrics: Add filters, search, or other performance metrics.
+
 WebSocket Integration: Enable instant updates without refreshing the page.
+
 Mobile-Friendly UI: Optimize the interface for mobile devices.
+
 Cloud Deployment: Host the app on Heroku, Vercel, or another cloud platform.
 
 **Contributing**
+
 Contributions are welcome! If you’d like to contribute:
 
 **Fork the repository.**
+
 1.Create a new branch (feature/new-feature).
+
 2.Commit your changes and push to your branch.
+
 3.Submit a pull request.
 
 **Acknowledgments**
+
 A big thank you to the hackathon organizers for providing the platform and inspiration for this project. Special thanks to the open-source community for the tools and frameworks that made this project possible.
 
-Connect with Sarthak
+**Connect with Sarthak**
 Feel free to reach out via GitHub: [Sarthak]([url](https://github.com/SarthakKacholiya))
 
 
