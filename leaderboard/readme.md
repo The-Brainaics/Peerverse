@@ -1,15 +1,15 @@
-**Dynamic Leaderboard System**
+# **Dynamic Leaderboard System**
 
 This project, developed by [Sarthak]([url](https://github.com/SarthakKacholiya)) as part of a hackathon, is a fully functional Leaderboard System designed to rank developers based on performance metrics, peer reviews, and alumni/admin feedback. The system fosters healthy competition by showcasing top performers and updates rankings dynamically in real time using MongoDB as the database backend.
 
-**Features**
+# **Features**
 1. Real-Time Leaderboard Updates: The leaderboard automatically updates rankings whenever new data is added or modified.
 2. Dynamic Feedback Integration: Alumni and admin reviews directly influence the ranking system.
 3. Clean, Interactive UI: A responsive and visually appealing interface for viewing rankings and feedback.
 Scalable Backend: Designed with Node.js and MongoDB for a seamless and scalable backend.
 Customization Options: Flexible architecture to add new performance metrics or expand features.
 
-**Tech Stack**
+# **Tech Stack**
 | **Category**       | **Technology**         |
 |---------------------|-------------------------|
 | **Frontend**        | HTML, CSS, JavaScript  |
@@ -19,7 +19,7 @@ Customization Options: Flexible architecture to add new performance metrics or e
 | **Version Control** | Git, GitHub            |
 | **Hosting (Future)**| Heroku, Vercel         |
 
-**Getting Started**
+# **Getting Started**
 
 Follow these steps to set up the project locally:
 
@@ -56,7 +56,7 @@ Start the server locally using the command:
 
 `node server.js`
 
-**Usage**
+# **Usage**
 
 1.View Rankings: Open the leaderboard in your browser to view real-time rankings and feedback.
 
@@ -64,7 +64,7 @@ Start the server locally using the command:
 
 3.Dynamic Updates: Refresh the leaderboard page to view real-time updates based on changes in the database.
 
-**Future Enhancements**
+# **Future Enhancements**
 
 Authentication System: Restrict data updates to verified admins or alumni.
 
@@ -76,11 +76,11 @@ Mobile-Friendly UI: Optimize the interface for mobile devices.
 
 Cloud Deployment: Host the app on Heroku, Vercel, or another cloud platform.
 
-**Contributing**
+# **Contributing**
 
 Contributions are welcome! If you’d like to contribute:
 
-**Fork the repository.**
+# **Fork the repository.**
 
 1.Create a new branch (feature/new-feature).
 
@@ -88,7 +88,7 @@ Contributions are welcome! If you’d like to contribute:
 
 3.Submit a pull request.
 
-**Acknowledgments**
+# **Acknowledgments**
 
 A big thank you to the hackathon organizers for providing the platform and inspiration for this project. Special thanks to the open-source community for the tools and frameworks that made this project possible.
 
