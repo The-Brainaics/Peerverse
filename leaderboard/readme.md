@@ -42,13 +42,15 @@ Then run:
 
 3. Populate the database with initial data:
 
-`use leaderboardDB;`
+```
+use leaderboardDB;
 
-`db.users.insertMany([
+db.users.insertMany([
     { name: "Alice", performanceScore: 95, reviews: "Excellent!" },
     { name: "Bob", performanceScore: 90, reviews: "Great work!" },
     { name: "Charlie", performanceScore: 85, reviews: "Good effort." }
-]);`
+]);
+```
 
 **4.Run the Application**
 
