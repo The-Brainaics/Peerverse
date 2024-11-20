@@ -20,38 +20,41 @@ Customization Options: Flexible architecture to add new performance metrics or e
 | **Hosting (Future)**| Heroku, Vercel         |
 
 **Getting Started**
+
 Follow these steps to set up the project locally:
 
 **1.Clone the Repository**
 
-git clone https://github.com/sarthak/leaderboard-system.git
-cd leaderboard-system
+`git clone https://github.com/sarthak/leaderboard-system.git
+cd leaderboard-system`
 
 **2.Install Dependencies**
 Ensure Node.js and npm are installed on your machine. 
+
 Then run:
-npm install
+`npm install`
 
 **3. Set Up MongoDB**
+
 Install and start MongoDB locally or use a cloud-based MongoDB service like MongoDB Atlas.
 
 Create a database named leaderboardDB and a collection named users.
 
 Populate the database with initial data:
 
-use leaderboardDB;
-
+`use leaderboardDB;
 
 db.users.insertMany([
     { name: "Alice", performanceScore: 95, reviews: "Excellent!" },
     { name: "Bob", performanceScore: 90, reviews: "Great work!" },
     { name: "Charlie", performanceScore: 85, reviews: "Good effort." }
-]);
+]);`
 
 **4.Run the Application**
+
 Start the server locally using the command:
 
-node server.js
+`node server.js`
 
 **File Structure**
 
