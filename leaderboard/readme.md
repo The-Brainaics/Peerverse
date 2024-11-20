@@ -1,4 +1,4 @@
-**   Dynamic Leaderboard System  **
+**Dynamic Leaderboard System**
 This project, developed by [Sarthak]([url](https://github.com/SarthakKacholiya)) as part of a hackathon, is a fully functional Leaderboard System designed to rank developers based on performance metrics, peer reviews, and alumni/admin feedback. The system fosters healthy competition by showcasing top performers and updates rankings dynamically in real time using MongoDB as the database backend.
 
 **Features:-**
